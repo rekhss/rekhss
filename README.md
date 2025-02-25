@@ -27,14 +27,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rekhss&show_icons=true&theme=radical">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rekhss&theme=radical">
-</p>
-
----
-
 ### 🌎 Connect With Me:
 <p align="center">
   <a href="https://github.com/rekhss"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a>
