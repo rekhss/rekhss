@@ -1,9 +1,6 @@
-<h1 align="center">Hey there, I'm Rekha 👋</h1>
+# 🌌 Rekha Seervi
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-  <b>Full-Stack Developer in Progress</b> | Focused on building clean, responsive, and meaningful web experiences.
-</p>
+**Full-Stack Developer in Progress** | Focused on building clean, responsive, and meaningful web experiences.
 
 ---
 
@@ -17,15 +14,10 @@ Driven by curiosity and a genuine interest in how the web is built, I enjoy turn
 
 ## ⚙️ Tech I'm Working With
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
-</p>
+- **Languages** → HTML5, CSS3, JavaScript, Python  
+- **Frontend** → Responsive Design, Flexbox, Grid, Media Queries
+- **Tools** → GitHub, VS Code, Figma (basic), Canva  
+- **OS** → EndeavourOS + Hyprland, ArchCraft Linux, WIndows
 
 ---
 
@@ -33,29 +25,15 @@ Driven by curiosity and a genuine interest in how the web is built, I enjoy turn
 
 - Advanced JavaScript and DOM manipulation  
 - REST APIs and backend integration  
-- Version control best practices  
-
----
-
-## 💻 Operating Systems
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/Hyprland-1793D1?style=for-the-badge&logo=linux&logoColor=white">
-  <img src="https://img.shields.io/badge/EndeavourOS-7C3AED?style=for-the-badge&logo=endeavouros&logoColor=white">
-</p>
+- Version control best practices
 
 ---
 
 ## 📬 Get in Touch
 
-<p align="center">
-  <a href="https://github.com/rekhss"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/rekha-seervi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
+- 🔗 LinkedIn: [linkedin.com/in/rekha-seervi](https://www.linkedin.com/in/rekha-seervi/)  
+- 💻 GitHub: [github.com/rekhss](https://github.com/rekhss)
 
 ---
 
-<p align="center">
-  Thanks for stopping by. Let’s build, break, and rebuild something great 🚀
-</p>
+Thanks for stopping by. Let’s build, break, and rebuild something great 🚀
