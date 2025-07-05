@@ -1,51 +1,39 @@
 # 🌌 Rekha Seervi
 
-**Aspiring Full-Stack Web Developer** | Exploring the web one pixel & function at a time 🚀
+**Full-Stack Developer in Progress** | Focused on building clean, responsive, and meaningful web experiences.
 
 ---
 
-### 👩‍💻 About Me
+## 🧩 Who Am I?
 
-I'm currently learning the ropes of **front-end and back-end development**, with a love for clean UI, responsive layouts, and meaningful user experiences. I enjoy translating ideas into code and building things that work — and *look* good doing it.
+Currently navigating the full-stack roadmap — building real-world web interfaces, experimenting with backend logic, and constantly refining how things look *and* work.
 
-When I’m not coding, I’m probably drawing, singing, or curating the perfect playlist 🎨🎶
-
----
-
-### 🛠️ Tech Stack
-
-- **Languages**: HTML, CSS, JavaScript
-- **Frontend**: Responsive Design, Flexbox, Grid, Figma (basics), Canva
-- **Backend**: Python (Flask), MySQL, SQLite
-- **Tools**: VS Code, GitHub, Linux (EndeavourOS + Hyprland), ArchCraft
+Driven by curiosity and a genuine interest in how the web is built, I enjoy turning wireframes into code, fixing the little bugs that break everything, and learning smarter ways to solve problems.
 
 ---
 
-### 📂 Projects
+## ⚙️ Tech I'm Working With
 
-Here are a few things I’ve built:
-
-- 🔗 [**PaySwift**](https://rekhss.github.io/paySwift/) – A modern credit card landing page with responsive dark-themed layout  
-- 🔗 [**YouTube Clone**](https://rekhss.github.io/youtubeClone/) – A static UI replica of YouTube with custom tooltips and a responsive video grid  
-- More projects coming soon — stay tuned ✨
-
----
-
-### 📫 Reach Me
-
-- 💌 Email: [rekhssirvi@gmail.com](mailto:rekhssirvi@gmail.com)  
-- 🌐 LinkedIn: [linkedin.com/in/rekha-seervi](https://www.linkedin.com/in/rekha-seervi/)  
-- 💻 GitHub: [@rekhss](https://github.com/rekhss)
+- **Languages** → HTML5, CSS3, JavaScript, Python  
+- **Frontend** → Responsive Design, Flexbox, Grid, Media Queries
+- **Tools** → GitHub, VS Code, Figma (basic), Canva  
+- **OS** → EndeavourOS + Hyprland, ArchCraft Linux, WIndows
 
 ---
 
-### ☁️ Currently Working On
+## 📍 Currently Exploring
 
-- Building my own custom **Hyprland Linux setup** 🖥️
-- Deep-diving into **JavaScript** (and occasionally losing my mind over it)
-- Learning **Flask** and making my back-end brain stronger 🧠💡
+- Advanced JavaScript and DOM manipulation  
+- REST APIs and backend integration  
+- Version control best practices
 
 ---
 
-Thanks for stopping by 🫶🏼  
-Let’s build something cool ✨
+## 📬 Get in Touch
+
+- 🔗 LinkedIn: [linkedin.com/in/rekha-seervi](https://www.linkedin.com/in/rekha-seervi/)  
+- 💻 GitHub: [github.com/rekhss](https://github.com/rekhss)
+
+---
+
+Thanks for stopping by. Let’s build, break, and rebuild something great 🚀
