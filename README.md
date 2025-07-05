@@ -1,36 +1,51 @@
-<h1 align="center">Hey there, I'm Rekha 👋</h1>
+# 🌌 Rekha Seervi
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-  <b>Aspiring Full-Stack Developer</b> | 🚀 Passionate about coding | 🎨 Loves UI/UX
-</p>
+**Aspiring Full-Stack Web Developer** | Exploring the web one pixel & function at a time 🚀
 
 ---
 
-### 🔥 About Me
-- 🎯 I’m currently learning **Full-Stack Web Development**  
-- 💡 Fun fact: I spend more time debugging than coding 😭  
-- 🎨 I love **UI/UX, Frontend magic & Creative Coding**  
-- 🛠️ I work with **HTML, CSS, JavaScript, React, Node.js, MongoDB**  
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/rekha-seervi/)  
+### 👩‍💻 About Me
+
+I'm currently learning the ropes of **front-end and back-end development**, with a love for clean UI, responsive layouts, and meaningful user experiences. I enjoy translating ideas into code and building things that work — and *look* good doing it.
+
+When I’m not coding, I’m probably drawing, singing, or curating the perfect playlist 🎨🎶
 
 ---
 
-### 🚀 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-</p>
+### 🛠️ Tech Stack
+
+- **Languages**: HTML, CSS, JavaScript
+- **Frontend**: Responsive Design, Flexbox, Grid, Figma (basics), Canva
+- **Backend**: Python (Flask), MySQL, SQLite
+- **Tools**: VS Code, GitHub, Linux (EndeavourOS + Hyprland), ArchCraft
 
 ---
 
-### 🌎 Connect With Me:
-<p align="center">
-  <a href="https://github.com/rekhss"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/rekha-seervi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
+### 📂 Projects
+
+Here are a few things I’ve built:
+
+- 🔗 [**PaySwift**](https://rekhss.github.io/paySwift/) – A modern credit card landing page with responsive dark-themed layout  
+- 🔗 [**YouTube Clone**](https://rekhss.github.io/youtubeClone/) – A static UI replica of YouTube with custom tooltips and a responsive video grid  
+- More projects coming soon — stay tuned ✨
 
 ---
+
+### 📫 Reach Me
+
+- 💌 Email: [rekhssirvi@gmail.com](mailto:rekhssirvi@gmail.com)  
+- 🌐 LinkedIn: [linkedin.com/in/rekha-seervi](https://www.linkedin.com/in/rekha-seervi/)  
+- 💻 GitHub: [@rekhss](https://github.com/rekhss)
+
+---
+
+### ☁️ Currently Working On
+
+- Building my own custom **Hyprland Linux setup** 🖥️
+- Deep-diving into **JavaScript** (and occasionally losing my mind over it)
+- Learning **Flask** and making my back-end brain stronger 🧠💡
+
+---
+
+Thanks for stopping by 🫶🏼  
+Let’s build something cool ✨
